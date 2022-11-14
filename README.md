@@ -8,7 +8,7 @@ Please use the following bib entry to cite the paper.
 ```
 
 
-First, links to the Notebooks for the figures
+ Links to the Notebooks for the figures
 
 | Figure| Link |
 | --- | --- |
