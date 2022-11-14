@@ -8,17 +8,13 @@ Please use the following bib entry to cite the paper.
 ```
 
 
-First, links to the notebooks for the figures
+First, links to the Notebooks for the figures
 
 | Figure| Link |
 | --- | --- |
-<!-- | Figure 1 2 and 3 | [Recalibration for Regression ](https://github.com/VibhutiBansal-11/NILM_Uncertainty/blob/master/notebooks/Calibration_regression.ipynb) |
-| Figure 4 | [Dishwasher low MAE justification](https://github.com/VibhutiBansal-11/NILM_Uncertainty/blob/master/notebooks/dishwasher/s2p/comparison.ipynb) |
-| Figure 5 | [Boxplot for ECE values across appliances](https://github.com/VibhutiBansal-11/NILM_Uncertainty/blob/master/notebooks/boxplot.ipynb)|
-| Figure 6| [Fridge : Predicted power and reliability diagrams ](https://github.com/VibhutiBansal-11/NILM_Uncertainty/blob/master/notebooks/fridge/final_analysis.ipynb)|
-| Figure 7| [Dishwasher : Predicted power and reliability diagrams ](https://github.com/VibhutiBansal-11/NILM_Uncertainty/blob/master/notebooks/dishwasher/final_analysis.ipynb)|
-| Figure 8| [Microwave : Predicted power and reliability diagrams ](https://github.com/VibhutiBansal-11/NILM_Uncertainty/blob/master/notebooks/microwave/final_analysis.ipynb)|
-| Figure 9 |[Fridge : Recalibration ](https://github.com/VibhutiBansal-11/NILM_Uncertainty/blob/master/notebooks/fridge/fill_between.ipynb)|
-| Figure 10 |[Dishwasher : Recalibration ](https://github.com/VibhutiBansal-11/NILM_Uncertainty/blob/master/notebooks/dishwasher/fill_between.ipynb)|
-| Figure 11|[Microwave : Recalibration ](https://github.com/VibhutiBansal-11/NILM_Uncertainty/blob/master/notebooks/dishwasher/fill_between.ipynb)|
-| Figure 12 and 13 |[Poor Recalibration](https://github.com/VibhutiBansal-11/NILM_Uncertainty/blob/master/notebooks/fridge/s2p/gmlp/badcalimage.ipynb) | -->
+| Figure 1, 2, 5 (a), 6 (a) and 7 (a) | [Point_to_Point](https://github.com/Aadesh-1404/nilm_gp/blob/main/Notebooks/Point_to_Point.ipynb) |
+| Figure 3, 5(b), 6 (b), 7 (b) and 8 (a), (b)   | [Sequence_to_Point](https://github.com/Aadesh-1404/nilm_gp/blob/main/Notebooks/Sequence_to_Point.ipynb) |
+| Figure 4, 5(c), (d), 6 (c), 7 (c) and 8 (c), (d)   | [Feature_based_GP](https://github.com/Aadesh-1404/nilm_gp/blob/main/Notebooks/Feature_based_GP.ipynb)|
+
+
+In each of the Notebooks, you can select the boolean bias and linear when needed and set it either True or False and run the file.
